@@ -1,0 +1,49 @@
+Quoting
++ To Quote click the name of the file in the box in the top left and the click the "Quote" button.
++ If the file doesn't appear in the box try clicking the "Refresh" button or "F5";if problem continues exit and reopen program.
+
+Searching for Quotes, new or old 
++ Type in the search box, the box on the left will update as you type.
++ Do not include leading or trailing spaces.
+
+Viewing Quotes 
++ File > View Quotes 
+
+Viewing Quote Breakdown 
++ Click on the name of the file and click the "Quote Breakdown" button or go to "File" > "View Quote Breakdown from Williams Program"
+ 
+Opening Williams Program 
++ "File" > "Open Williams Program"
+
+Amending a Quote (Changing Customer / Site details only)
++ Click on file name and click the "Amend Quote" button 
++ Enter the information in the boxes as they appear, text on the top shows what it's for
+
+Amending a Quote (Changing Customer / Site details and adding items)
++ Click on file name and click the "Amend Quote" button
++ Use the tick boxes and quanity boxes to specify what you want to add to the quote
++ Enter the information in the boxes as they appear, text on the top shows what it's for
+
+Changing Header / Footer 
++ Go to Settings 
++ Click either the "Header" or "Footer" button 
++ Browse for file, it must be an Image file e.g. (.jpg) or (.png) ; click open in Windows dialog.
++ This only needs to be done once and it will remember the selection until it is changed. 
+
+Changing Header / Footer save location 
++ "Settings" 
++ Click either change PDF or Cutlist save location 
++ Browse to find save location
+
+Creating a Quick Quote 
++ Select the tick box of the type of gate or fence (multiple can be clicked). 
++ Enter number in the box to right, indicating how much of each you want.
++ Click the "Confirm" button. 
+
+Help 
++ Click Help on the menu strip to open this file. 
+
+F5 - Refresh Program ; ESC - Exit Program 
+
+Last Edit: 11:43 23/07/2018
+
